@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://odoo-tr.com"><img src="https://raw.githubusercontent.com/Odoo-Tr/.github/main/profile/odoo-tr.png" width="104" alt="Odoo Türkiye"></a>
+  <a href="https://odoo-tr.com"><img src="https://avatars.githubusercontent.com/u/350394539?v=4&s=208" width="104" alt="Odoo Türkiye"></a>
 </p>
 
 <h3 align="center">Odoo Türkiye</h3>
