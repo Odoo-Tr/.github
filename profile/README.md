@@ -1,11 +1,6 @@
-<p align="center">
-  <a href="https://odoo-tr.com"><img src="https://avatars.githubusercontent.com/u/350394539?v=4&s=208" width="104" alt="Odoo Türkiye"></a>
-</p>
-
-<h3 align="center">Odoo Türkiye</h3>
+<a href="https://odoo-tr.com"><img src="banner.png" width="100%" alt="Odoo Türkiye: Türkiye'deki Odoo kullanıcıları ve geliştiricileri için açık kaynak modüller ve Türkçe kaynak"></a>
 
 <p align="center">
-  Türkiye'deki Odoo kullanıcıları ve geliştiricileri için açık kaynak modüller ve Türkçe kaynak.<br>
   <a href="https://odoo-tr.com"><b>odoo-tr.com</b></a> · Türkçe Odoo rehberleri ve topluluk forumu
 </p>
 
