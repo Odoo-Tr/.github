@@ -15,6 +15,7 @@ Türkiye'ye özel ihtiyaçlar için ücretsiz, LGPL-3 lisanslı Odoo modülleri.
 | [TCMB Döviz Kurları](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_tcmb_rates) | Döviz kurlarını her gün TCMB bülteninden otomatik günceller | 18.0 · 19.0 · 20.0 |
 | [Faturada Yazıyla Tutar](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_amount_in_words) | Fatura çıktısına "Yalnız: ... Türk Lirası ... Kuruş" satırını ekler | 18.0 · 19.0 · 20.0 |
 | [İl ve İlçe Adresleri](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_address) | 81 ilin 973 ilçesi; il seçilince yalnız o ilin ilçeleri listelenir | 18.0 · 19.0 · 20.0 |
+| [Gelir Vergisi Stopajı](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_stopaj) | Serbest meslek ve kira ödemelerinde %20 stopaj; muhtasar için aylık stopaj listesi | 18.0 · 19.0 · 20.0 |
 
 Kurulum ve kullanım için her modülün README dosyasına bakın. Sırada neler olduğunu [yol haritasında](https://github.com/Odoo-Tr/odoo-turkiye/blob/19.0/ROADMAP.md) görebilirsiniz.
 
