@@ -17,6 +17,7 @@ Türkiye ve KKTC'ye özel ihtiyaçlar için ücretsiz, LGPL-3 lisanslı Odoo mod
 | [İl ve İlçe Adresleri](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_address) | 81 ilin 973 ilçesi; il seçilince yalnız o ilin ilçeleri listelenir | 18.0 · 19.0 · 20.0 |
 | [Gelir Vergisi Stopajı](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_stopaj) | Serbest meslek ve kira ödemelerinde %20 stopaj; muhtasar için aylık stopaj listesi | 18.0 · 19.0 · 20.0 |
 | [KKTC Muhasebe](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_kktc) | Kuzey Kıbrıs Türk Cumhuriyeti: ülke, altı ilçe, Tek Düzen Hesap Planı ve KDV oranları | 18.0 · 19.0 · 20.0 |
+| [Kur Farkı Faturası](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_kur_farki) | Dövizli faturanın tahsilat ya da ödemesindeki kur farkı için KDV'li fatura, tek tıkla | 18.0 · 19.0 · 20.0 |
 
 Kurulum ve kullanım için her modülün README dosyasına bakın. Sırada neler olduğunu [yol haritasında](https://github.com/Odoo-Tr/odoo-turkiye/blob/19.0/ROADMAP.md) görebilirsiniz.
 
