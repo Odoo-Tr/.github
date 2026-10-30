@@ -15,7 +15,7 @@ Türkiye'ye özel ihtiyaçlar için ücretsiz, LGPL-3 lisanslı Odoo modülleri.
 | [TCMB Döviz Kurları](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_tcmb_rates) | Döviz kurlarını her gün TCMB bülteninden otomatik günceller | 19.0 · 20.0 |
 | [Faturada Yazıyla Tutar](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_amount_in_words) | Fatura çıktısına "Yalnız: ... Türk Lirası ... Kuruş" satırını ekler | 19.0 · 20.0 |
 
-Kurulum ve kullanım için her modülün README dosyasına bakın. Yeni modüller eklendikçe bu liste güncellenir.
+Kurulum ve kullanım için her modülün README dosyasına bakın. Sırada neler olduğunu [yol haritasında](https://github.com/Odoo-Tr/odoo-turkiye/blob/19.0/ROADMAP.md) görebilirsiniz.
 
 ### Katkı ve destek
 
