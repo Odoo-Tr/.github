@@ -24,6 +24,7 @@ Türkiye ve KKTC'ye özel ihtiyaçlar için ücretsiz, LGPL-3 lisanslı Odoo mod
 | [Türk Bankaları](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_banka) | 67 banka, EFT ve BIC kodlarıyla; IBAN girilince banka kendiliğinden seçilir | 15.0 – 20.0 |
 | [Vergi Daireleri](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_vergi_dairesi) | 1.046 vergi dairesi; kişi ve şirkette listeden seçilen Vergi Dairesi alanı | 15.0 – 19.0 |
 | [Hesap Grupları](https://github.com/Odoo-Tr/odoo-turkiye/tree/15.0/l10n_tr_account_group) | Odoo 15'in Türkiye planında olmayan Tek Düzen Hesap Planı grupları | 15.0 |
+| [Mizan, Bilanço ve Gelir Tablosu](https://github.com/Odoo-Tr/odoo-turkiye/tree/19.0/l10n_tr_mali_tablolar) | Tek Düzen Hesap Planı sıralamasıyla mizan, ayrıntılı bilanço ve gelir tablosu; PDF ve Excel | 15.0 – 20.0 |
 
 Kurulum ve kullanım için her modülün README dosyasına bakın. Sırada neler olduğunu [yol haritasında](https://github.com/Odoo-Tr/odoo-turkiye/blob/19.0/ROADMAP.md) görebilirsiniz.
 
